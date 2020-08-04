@@ -82,6 +82,88 @@
                 "Sound Enhancements : DTS Surround Sound",
                 "SAR Value : Head - 0.790 W/kg, Body - 0.896 W/kg"
             ]
+        },
+        {
+            "img":"https://rukminim1.flixcart.com/image/312/312/k1fbmvk0/mobile/k/b/e/mi-redmi-8-mzb8250in-original-imafhyabpggagngr.jpeg",
+            "name":"Redmi 8 (Onyx Black, 64 GB)  (4 GB RAM)",
+            "price":"₹9,999",
+            "Highlights":[
+                "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB",
+                "15.8 cm (6.22 inch) HD+ Display",
+                "12MP + 2MP | 8MP Front Camera",
+                "5000 mAh Battery",
+                "Qualcomm Snapdragon 439 Processor"
+
+            ],
+            "specifications":[
+                "General",
+                "In The Box : Handset, Mobile Cover, Data Cable, Adapter, Manual, SIM Card Ejector",
+                "Model Number : MZB9072IN/MZB07R7IN/MZB8254IN",
+                "Model Name : Redmi 8",
+                "Color : Onyx Black",
+                "Browse Type : Smartphones",
+                "SIM Type : Dual Sim",
+                "Hybrid Sim Slot : No",
+                "Touchscreen : Yes",
+                "OTG Compatible : Yes",
+                "Quick Charging : Yes",
+                "Sound Enhancements : Speaker: Single (Bottom Opening), Microphone: 2 (For Noise Cancellation)",
+                "SAR Value : Head - 0.339W/kg, Body - 1.000W/kg"
+                                
+            ]
+        },
+        {
+            "img":"https://rukminim1.flixcart.com/image/312/312/kcauaa80/mobile/b/b/u/poco-m2-pro-mzb9628in-original-imaftg8dbxfqhddh.jpeg",
+            "name":"POCO M2 Pro (Out of the Blue, 128 GB)  (6 GB RAM)",
+            "price":"₹19,999",
+            "Highlights":[
+                "6 GB RAM | 128 GB ROM | Expandable Upto 512 GB",
+                "16.94 cm (6.67 inch) Full HD+ Display",
+                "48MP + 8MP + 5MP + 2MP | 16MP Front Camera",
+                "5000 mAh Lithium-ion Polymer Battery",
+                "Qualcomm Snapdragon 720G Processor"
+            ],
+            "specifications":[
+                "General",
+                "In The Box : Handset, Power Adaptor, USB Type C Data Cable, Phone Cover, SIM Ejector Tool, User Guide",
+                "Model Number : MZB9628IN",
+                "Model Name : M2 Pro",
+                "Color : Out of the Blue",
+                "Browse Type : Smartphones",
+                "SIM Type : Dual Sim",
+                "Hybrid Sim Slot : No",
+                "Touchscreen : Yes",
+                "OTG Compatible : Yes",
+                "Sound Enhancements : Single (Bottom Opening) Speaker with Smart PA",
+                "SAR Value : Head: 0.914 W/kg, Body: 0.669 W/kg"
+                                
+            ]
+        },
+        {
+            "img":"https://rukminim1.flixcart.com/image/312/312/kae95e80/mobile/8/3/2/motorola-g8-power-lite-pajc0009in-original-imafrz85cnetvz5h.jpeg",
+            "name":"Motorola G8 Power Lite (Arctic Blue, 64 GB)  (4 GB RAM)",
+            "price":"₹9,999",
+            "Highlights":[
+                "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB",
+                "16.51 cm (6.5 inch) HD+ Display",
+                "16MP + 2MP + 2MP | 8MP Front Camera",
+                "5000 mAh Lithium-ion Battery",
+                "MediaTek Helio P35 Processor"
+            ],
+            "specifications":[
+                "General",
+                "In The Box : Handset with Built-in Battery, Travel Adapter, USB Cable, Quick Start Guide, Legal Insert, Protective Back Cover Case",
+                "Model Number : PAJC0009IN",
+                "Model Name : G8 Power Lite",
+                "Color : Arctic Blue",
+                "Browse Type : Smartphones",
+                "SIM Type : Dual Sim",
+                "Hybrid Sim Slot : No",
+                "Touchscreen : Yes",
+                "OTG Compatible : Yes",
+                "SAR Value : Head: 0.37 W/kg, Body: 1.39 W/kg"
+
+            ]
         }
     ]
 }
